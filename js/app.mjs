@@ -181,4 +181,3 @@ document.querySelectorAll('.switch-toggle input').forEach((toggleInput) => {
 /**
  * Set GitHub Contributors
  */
-
